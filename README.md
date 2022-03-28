@@ -1,2 +1,2 @@
 # ML-Projects
-This Repo consists of my Machine Learning projects
+This Repository consists of my Machine Learning, Deep Learning projects
